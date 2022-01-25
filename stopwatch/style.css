@@ -1,0 +1,10 @@
+* {
+  padding: 20px;
+  margin: 100;
+  box-sizing: border-box;
+}
+body {
+  background-color: #111;
+  font-family: Helvetica, Geneva, Tahoma, sans-serif;
+}
+
